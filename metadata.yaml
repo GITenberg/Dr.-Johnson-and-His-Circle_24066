@@ -1,0 +1,31 @@
+_repo: Dr.-Johnson-and-His-Circle_24066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, John Cann
+    birthdate: 1864
+    deathdate: 1931
+    gutenberg_agent_id: '25233'
+    url: http://www.gutenberg.org/2009/agents/25233
+description: ''
+gutenberg_issued: '2007-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcc 'PR'
+- !lcsh 'Boswell, James, 1740-1795 -- Friends and associates'
+- !lcsh 'Lexicographers -- Great Britain -- Biography'
+- !lcsh 'Johnson, Samuel, 1709-1784 -- Friends and associates'
+- !lcsh 'Great Britain -- Intellectual life -- 18th century'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+title: Dr. Johnson and His Circle
+url: http://www.gutenberg.org/ebooks/24066
